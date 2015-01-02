@@ -1,62 +1,110 @@
+# Currency and Equipment
+
 A realm does not run itself on good intentions and the strength of its
 warriors alone. The trade of goods and currency representative of goods
 and services is a vital component of the functions of each of the Five
 Realms, and indeed most races with any structure to their society.
+
 Within the Five Realms there exist multiple currencies, from the major
 currencies of the realm themselves (Sovereigns, Marks, Denarii and
 Crux), to local currencies and those of distant realms. For the purposes
 of the Chronicle, however it will be the aethershard currency commonly
 used by the Dra’zhar that form the basis for the in-game economy.
+
 A Lightshard (ls) is the lowest denomination, and are formed from small
 chips or cut crystals of poor quality clear or pale yellow aetherstone.
+
 A Sunshard (ss) is the common denomination for trading, and is
 typically a well formed yellow crystal of useful aetherstone. 1 ss equals
 10 ls.
+
 A Moonshard (ms) is a valuable denomination, a near flawless blue
 aetherstone prized for arcane purposes. 1 ms equals 50 ss.
+
 A Nobleshard (ns) is a very rare denomination, a perfect purple
 aetherstone crystal of inherent power and potential. 1 ns equals 20 ms.
+
 Each character starts with 1000 Sunshards (ss) to buy their weapons,
 armour, tools and other key pieces of starting equipment.
+
 During the Chronicle, while it is encouraged that players buy and sell
 food, trinkets and clothing, and pay those that help them or they are
 feeling generous towards using their currency, the Gamemaster team
 are not concerned with tracking whether a player has paid in-game for
 every last piece of equipment they possess.
+
 For those that wish to read it, the Crucible Codex provides a longer
 list of equipment possibilities, but this is intended more for reference
 purposes, as many of the items on the list will not have any practical
 impact upon the game except for set dressing.
-WEAPON Cost (ss) In-Game Use
-Arrow / Bolt One arrow or bolt 5
-Short Weapon Small weapon such as a dagger or
-hatchet up to half a metre long
-20 Less than 50cm in length. Does not count as another sort of weapon, even if in
-the shape of one.
-Sap Solid blackjack that can be used to
-bludgeon and stun a victim
-20 Can be used by anyone to strike an Off-Guard target (between the shoulder
-blades) and inflict STUN.
-Stave Simple two metre wooden pole for
-multiple uses including combat
-20 Does not get a damage bonus from the ‘Two-Handed Weapon Control’ ability.
-Counts as both a polearm and a blunt weapon for the purpose of Weapon Skill
-abilities, though they cannot be used to deliver LETHAL attacks.
-One Handed Weapon Standard sword, axe, mace or similar
-weapon intended for single-handed
-wielding and between half and just
-over a metre long
-40 Between 50 and 110cm in length.
-Bow / Crossbow Projectile weapon capable of shooting
-an arrow or bolt with tremendous
-power
-60 Must have a draw strength of no more than 30lb.
-Two Handed Weapon Large sword, axe, mace, glaive or
-similar weapon intended for twohanded
-wielding and over a metre long
-80 Over 110cm in length. If using the ‘Two-handed Weapon Control’ ability, both
-hands must still be holding the weapon when a blow is landed to qualify for the
-bonus damage.
+
+<table>
+
+	<tr>
+		<th valign="top">WEAPON</th>
+		<th valign="top">Description</th>
+		<th valign="top">Cost (ss)</th>
+		<th valign="top">In-Game Use</th>
+	</tr>
+
+	<tr>
+		<td valign="top">Arrow / Bolt</td>
+		<td valign="top">One arrow or bolt</td>
+		<td valign="top">5</td>
+		<td valign="top"></td>
+	</tr>
+
+	<tr>
+		<td valign="top">Short Weapon</td>
+		<td valign="top">Small weapon such as a dagger or hatchet up to half a metre long.</td>
+		<td valign="top">20</td>
+		<td valign="top">Less than 50cm in length. Does not count as another sort of weapon, even if in the shape of
+			one.</td>
+	</tr>
+
+	<tr>
+		<td valign="top">Sap</td>
+		<td valign="top">Solid blackjack that can be used to bludgeon and stun a victim.</td>
+		<td valign="top">20</td>
+		<td valign="top">Can be used by anyone to strike an Off-Guard target (between the shoulder blades) and inflict
+			STUN.</td>
+	</tr>
+
+	<tr>
+		<td valign="top">Stave</td>
+		<td valign="top">Simple two metre wooden pole for multiple uses including combat.</td>
+		<td valign="top">20</td>
+		<td valign="top">Does not get a damage bonus from the ‘Two-Handed Weapon Control’ ability. Counts as both a
+			polearm and a blunt weapon for the purpose of Weapon Skill abilities, though they cannot be used to
+			deliver LETHAL attacks.</td>
+	</tr>
+
+	<tr>
+		<td valign="top">One Handed Weapon</td>
+		<td valign="top">Standard sword, axe, mace or similar weapon intended for single-handed wielding and between
+			half and just over a metre long</td>
+		<td valign="top">40</td>
+		<td valign="top">Between 50 and 110cm in length.</td>
+	</tr>
+
+	<tr>
+		<td valign="top">Bow / Crossbow</td>
+		<td valign="top">Projectile weapon capable of shooting an arrow or bolt with tremendous power</td>
+		<td valign="top">60</td>
+		<td valign="top">Must have a draw strength of no more than 30lb.</td>
+	</tr>
+
+	<tr>
+		<td valign="top">Two Handed Weapon</td>
+		<td valign="top">Large sword, axe, mace, glaive or similar weapon intended for twohanded wielding and over a
+			metre long</td>
+		<td valign="top">80</td>
+		<td valign="top">Over 110cm in length. If using the ‘Two-handed Weapon Control’ ability, both hands must still
+			be holding the weapon when a blow is landed to qualify for the bonus damage.</td>
+	</tr>
+
+</table>
+
 ARMOUR Cost (ss) In-Game Use
 Helmet, Open Leather or metal partial head
 protection
